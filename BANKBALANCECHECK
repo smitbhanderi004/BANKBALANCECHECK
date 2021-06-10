@@ -12,11 +12,11 @@
       {
          "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
          "banner_id":"777356456140717_777360682806961",
-         "interstitial_id":"",
-          "interstitial_id1":"",
-          "interstitial_id2":"",
-         "native_id":"",
-         "native_banner_id":"",
+         "interstitial_id":"777356456140717_778026906073672",
+          "interstitial_id1":"777356456140717_778026986073664",
+          "interstitial_id2":"777356456140717_778027106073652",
+         "native_id":"777356456140717_778027242740305",
+         "native_banner_id":"777356456140717_778027352740294",
          "rectangle_banner_id":"",
          "status":"true",
          "splash_ads":"false"
