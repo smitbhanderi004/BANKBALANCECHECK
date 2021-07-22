@@ -2,9 +2,9 @@
    "Ads":[
       {
          "app_id":"ca-app-pub-3940256099942544~3347511713",
-         "banner_id":"ca-app-pub-3940256099942544/6300978111",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
-         "native_id":"ca-app-pub-3940256099942544/2247696110",
+         "banner_id":"/22387492205,22514304215/com.bankbalance.bankbalancecheck.bankbalance.bank.balance.bank.Banner0.1626956122",
+         "interstitial_id":"/22387492205,22514304215/com.bankbalance.bankbalancecheck.bankbalance.bank.balance.bank.Interstitial0.1626956200",
+         "native_id":"/22387492205,22514304215/com.bankbalance.bankbalancecheck.bankbalance.bank.balance.bank.Native0.1626956186",
          "qureka_ads":"https://831.win.qureka.com/",
          "status":"true",
          "splash_ads":"false"
