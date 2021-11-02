@@ -14,9 +14,9 @@
    "Admob_Native":"	ca-app-pub-3940256099942544/1044960115",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
    "fbad_showStatus":"0",
-   "mopub_banner":"baec8b1607e14bc2b0c304d62e813195",
-   "mopub_inter1":"58599184fa3f41819611f08d27504e5b",
-   "mopub_inter2":"58599184fa3f41819611f08d27504e5b",
-   "mopub_inter3":"58599184fa3f41819611f08d27504e5b",
-   "mopub_native":"a49541a88b364829bdc94990a06bd407"
+   "mopub_banner":"",
+   "mopub_inter1":"",
+   "mopub_inter2":"",
+   "mopub_inter3":"",
+   "mopub_native":""
 }
