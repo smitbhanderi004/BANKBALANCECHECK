@@ -4,7 +4,7 @@
    "app_AppOpenAdStatus":"0",
    "app_dialogBeforeAdShow":"0",
    "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
-   "app_howShowAd":"0",
+   "app_howShowAd":"1",
    "qureka":"https://831.win.qureka.com/",
    "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
    "admob_showAdStatus":"1",
