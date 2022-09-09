@@ -7,7 +7,7 @@
    "qureka_status":"0",
    "qureka_dailog":"1",
    "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
-   "admob_showAdStatus":"0",
+   "admob_showAdStatus":"1",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
    "Admob_Banner":"/22699621281/com.royal.bankbalancecheck.bankbalance.bbcinstantbankbalancechecker.bank_banner",
    "Admob_Interstitial":"/22699621281/com.royal.bankbalancecheck.bankbalance.bbcinstantbankbalancechecker.bank_interstitial",
